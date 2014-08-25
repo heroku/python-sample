@@ -1,0 +1,6 @@
+{
+  "name": "Python Flask sample",
+  "description": "A 'hello world' Python app using the Flask framework",
+  "repository": "https://github.com/heroku/python-sample",
+  "keywords": ["python", "flask"]
+}
