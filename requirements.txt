@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1bbdf45731c82f5406a181f920d4d3ebfd1764df
 astroid==2.2.5
 bottle==0.12.18
 Click==7.0
